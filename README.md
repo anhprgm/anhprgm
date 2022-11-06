@@ -10,5 +10,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anhprgm&show_icons=true" />
 </picture>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhprgm&layout=compact)](https://github.com/anhprgm/github-readme-stats)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
