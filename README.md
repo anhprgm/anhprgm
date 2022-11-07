@@ -44,6 +44,4 @@
 <p align="center"> 
   
   ![TheAnh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhprgm&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-  
-  ![Snake animation](https://github.com/anhprgm/anhprgm/blob/output/github-contribution-grid-snake.svg)
 </p>
