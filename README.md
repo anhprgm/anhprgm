@@ -1,8 +1,4 @@
 
-
-<p align='center'> 
-  
-</p>
 <p align='center'> Give me a star if u like my code. Contact me </p>
 <p align='center'>
   <a href="https://www.facebook.com/tanhtuce">
@@ -16,7 +12,11 @@
   </a>
 </p>
 
-<h2> 📔 &nbsp;Some languages i'm learning</h2>
+<p align="center">
+<img src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif" width="350" height="350" />
+</p>
+
+<h2 align = "left"> 📔 &nbsp;Some languages i'm learning</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="py" width="45" height="45"/>
@@ -40,6 +40,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="py" width="45" height="45"/>
 </p>
 
-![TheAnh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhprgm&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<p align="center"> 
+  
+  ![TheAnh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhprgm&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+  
+  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+</p>
